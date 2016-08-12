@@ -25,5 +25,7 @@ end
 
 chris = Instructor.new("Chris")
 puts chris.greeting
+puts chris.teach
 cristina = Student.new("Cristina")
 puts cristina.greeting
+puts cristina.learn
